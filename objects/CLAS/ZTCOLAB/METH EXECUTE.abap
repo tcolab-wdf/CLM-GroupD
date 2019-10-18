@@ -1,4 +1,4 @@
   method execute.
     data-key = 'Hello'.
-    data-value = 'TCOLAB1'.
+    data-value = 'TCOLAB'.
   endmethod.
